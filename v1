@@ -1,0 +1,321 @@
+FINAL PPT REVIEW & EXECUTIVE AUDIT REFINEMENT PROMPT
+
+Review the attached PowerPoint as a final Audit Report presentation.
+
+This PPT has already been reviewed multiple times by audit, delivery, release management, engineering, and leadership stakeholders. 
+The objective is not to redesign the PPT, but to perform a final executive-level refinement and ensure it is suitable for CIO / CTO / Audit Leadership review.
+
+Key Leadership Instructions
+
+Review the entire PPT and validate that it follows the below expectations:
+
+1. Executive Style Presentation
+
+The deck should read like an:
+
+Audit Report
+Executive Assessment
+Governance Review
+
+It should NOT read like:
+
+Project status report
+Workshop notes
+Technical design document
+Solution architecture proposal
+Consulting recommendation document
+
+Keep content concise and management-focused.
+
+2. Findings Must Be Clearly Structured
+
+Every observation must clearly show:
+
+Finding → Risk → Business Impact → Recommendation → Action Item → Owner
+
+Leadership should immediately understand:
+
+What is the issue?
+Why does it matter?
+What is the risk?
+What should be done?
+Who owns the action?
+3. Map All Findings to Risks
+
+For every RM**, RI**, AM**, BG**, or Audit Observation:
+
+Create explicit mapping.
+
+Example:
+
+Finding
+
+Release approvals exist across multiple tools without a common Release ID.
+
+Risk
+
+Incomplete release traceability.
+
+Impact
+
+Potential audit exceptions and inability to reconstruct release history.
+
+Action
+
+Implement end-to-end Release ID and evidence traceability.
+
+Owner
+
+Release Management Team.
+
+Do this for every finding.
+
+4. Add Action Plan & Roadmap
+
+Leadership specifically requested that every finding has a visible remediation path.
+
+For every finding include:
+
+Finding	Risk	Action	Owner
+
+Where appropriate additionally show:
+
+Immediate Actions
+Short-Term Actions
+Long-Term Actions
+
+Keep concise.
+
+5. Avoid Scope Creep
+
+Important.
+
+Recommendations must remain within Audit scope.
+
+Do NOT propose:
+
+New architecture designs
+Platform migrations
+Product replacements
+Major engineering redesigns
+
+Focus only on:
+
+Governance improvements
+Release controls
+Branching controls
+Traceability
+Documentation
+Audit evidence management
+Process maturity
+
+Ensure recommendations remain realistic and within assessment scope.
+
+6. Remove Audit Ambiguity
+
+Replace wording such as:
+
+Pending
+Awaiting Validation
+To Be Confirmed
+In Progress Review
+Evidence Requested
+
+Use professional audit language instead:
+
+Observation Noted
+Evidence Not Demonstrated
+Process Not Evidenced
+Control Not Fully Established
+Traceability Could Not Be Confirmed
+
+Final report should not contain open-ended statements.
+
+7. Executive Summary Slide Validation
+
+Ensure Executive Summary clearly presents:
+
+Scope
+
+Release Management
+
+Release Governance
+
+Branching Strategy
+
+Change Controls
+
+Environment Governance
+
+Evidence Management
+
+Overall Assessment
+
+High-level audit conclusion.
+
+Key Risks
+
+Top risks identified.
+
+Priority Actions
+
+Areas requiring management attention.
+
+8. Leadership Dashboard
+
+Validate there is a concise dashboard showing:
+
+Finding	Risk Rating	Priority	Owner
+
+Use:
+
+🔴 High
+
+🟠 Medium
+
+🟢 Low
+
+Allow leadership to understand risk posture within 30 seconds.
+
+9. Release Management Focus
+
+Verify findings cover:
+
+Release Approvals
+Release Traceability
+Release Notes Controls
+CAB Governance
+Release Evidence
+Release Scheduling Controls
+Release Ownership
+Release Documentation
+
+Where evidence exists, ensure findings are balanced and factual.
+
+10. Branching Strategy Focus
+
+Verify findings cover:
+
+Branch Governance
+Merge Controls
+Promotion Controls
+Release Branch Usage
+Segregation of Environments
+Deployment Traceability
+Emergency Fix Process
+Pull Request Controls
+
+Recommendations should be governance-focused rather than implementation-focused.
+
+11. Assessment Report Tone
+
+Maintain tone of:
+
+Independent Assessment
+Audit Review
+Governance Evaluation
+
+Not:
+
+Design Review
+Transformation Plan
+Engineering Roadmap
+12. Slide Optimization
+
+If duplicate content exists:
+
+Merge duplicate findings
+Merge duplicate recommendations
+Reduce repetitive text
+
+Target final deck size:
+
+15–20 slides maximum
+
+Only reduce content where duplication exists.
+
+Do not remove important findings.
+
+13. Visual Theme Review
+
+Validate PPT appears like a mature internal audit report.
+
+Recommended Colours:
+
+Executive Summary
+
+Dark Blue
+
+Findings
+
+Blue
+
+Risks
+
+Red
+
+Recommendations
+
+Amber
+
+Actions / Roadmap
+
+Green
+
+Ensure:
+
+Consistent fonts
+Consistent icons
+Consistent terminology
+Professional executive presentation style
+Additional Leadership Validation
+
+Before finalizing, challenge every slide using the following questions:
+
+Would a CIO understand this within 30 seconds?
+Is the risk clearly visible?
+Is the finding traceable to a business impact?
+Is there a clear owner?
+Is there a defined action?
+Does this remain within audit scope?
+Does this look like a final audit report rather than a working draft?
+Are there any remaining pending statuses?
+Is there any unnecessary technical detail that can be simplified?
+Can any slides be merged to improve executive readability?
+Final Output Required
+
+Provide:
+
+Overall Review Summary
+Strengths
+Weaknesses
+Executive Readiness
+Slide-by-Slide Comments
+
+Only where changes are required.
+
+Findings-to-Risk Mapping Validation
+
+Confirm all findings have:
+
+Finding → Risk → Impact → Action → Owner
+
+Duplicate Content Review
+
+Identify slides that can be merged.
+
+Executive Readiness Assessment
+
+Choose one:
+
+✅ Ready for Leadership Review
+
+✅ Ready with Minor Changes
+
+❌ Requires Major Rework
+
+Final Recommendation
+
+Keep changes minimal, preserve existing content where possible, and transform the deck into a professional Executive Audit Report suitable for Leadership, Audit Governance, Program Management, and CIO/CTO review.
+
+Important: Do not rewrite the entire deck. Make only targeted improvements, remove duplication, strengthen risk-to-action mapping, add ownership and remediation visibility, remove all pending statuses, and maintain a concise 15–20 slide executive audit presentation.
